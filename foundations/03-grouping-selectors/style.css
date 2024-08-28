@@ -1,0 +1,14 @@
+.botoes-esquerdos,
+.botoes-direitos{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', 'sans-serif';
+}
+
+.botoes-esquerdos{
+    background-color: black;
+    color:white;
+}
+
+.botoes-direitos{
+    background-color: yellow;
+}
